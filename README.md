@@ -1,4 +1,4 @@
-Fist Iteration of Todo List
+First Iteration of Todo List
 
 
 # Getting Started with Create React App
